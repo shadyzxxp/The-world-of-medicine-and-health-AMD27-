@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mobile world for health and sports22</string>
+    <string name="mobile_world_for_health_and_sports">Mobile world for health and sports</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="register_for_new_user">Register For New User</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_acount">Already have an acount?</string>
+    <string name="new_user_registration" />
+    <string name="Mobile_world_for_health_and_sports">Mobile World For Health And Sports</string>
+    <string name="top_doctors">Top Doctors</string>
+    <string name="todo">TODO</string>
+    <string name="family_physicians">FAMILY PHYSICIANS</string>
+    <string name="Todo">TODO</string>
+    <string name="dentist">DENTIST</string>
+    <string name="surgeon">Surgeon</string>
+    <string name="dietician">DIETICIAN</string>
+    <string name="todO">TODO</string>
+    <string name="cardiologists">CARDIOLOGISTS</string>
+    <string name="back">BACK</string>
+    <string name="toDo">TODO</string>
+    <string name="tODO">TODO</string>
+    <string name="TodO">TODO</string>
+</resources>
